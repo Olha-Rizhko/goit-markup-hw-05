@@ -794,7 +794,7 @@ img {
   align-items: center;
 }
 
-.check-text a {
+.form-user-privacy-link {
   color: #4d5ae5;
   line-height: 1.33;
   text-decoration: underline;
@@ -819,9 +819,6 @@ img {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
-}
-
-.form-user-privacy-link {
 }
 
 .modal-send-btn {
